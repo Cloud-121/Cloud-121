@@ -1,6 +1,10 @@
-# Welcome!
-Hiya ^^
-I'm Cloud or Scarlett, My daily driver is Linux Mint, and I love tinkering with all things tech-related. I have a  diverse skill set including Python, Javascript, and Bash. Whether it's building a website from scratch or developing a application, I'm always up for a coding challenge. I love being a maker and engineer. Whether it's troubleshooting a bug or coming up with a new idea, I'm always looking for ways to push my skills to the limit. Overall, I'm just a curious and passionate person who loves to experiment with technology. Whether it's coding, building, or testing, I'm always eager to dive in and see what I can create.
+# Hiya ^^
+
+I'm Cloud or Scarlett, and my current desktop distro of choice is Linux Mint Debian Edition. I'm a tinkerer at heart, passionate about open source software and hardware. I'm knollgeable in Python, JavaScript, PowerShell, and Bash, and I’m currently diving into Rust and C++ to expand my skillset. 
+
+I enjoy pushing my skills by working on a variety of software and hardware projects, many of which are open-source and can be found on my [GitHub](https://github.com/Cloud-121). Notably, I’ve contributed to [ETS2LA](https://github.com/ETS2LA/Euro-Truck-Simulator-2-Lane-Assist), a plugin-based interface for SCS games. I’ve also developed tools like [MapleCountyAtmSolver](https://github.com/Cloud-121/MapleCountyAtmSolver), an automatic puzzle solver for the game Maple County. Additionally, and [webvescxmlviewer](https://github.com/Cloud-121/webvescxmlviewer), Designed to make the viewing of the XML files that can be downloaded from vesc tool for debugging easier and sharing to other users for trouble shooting as simple as possible. I also have smaller projects such as [ETS2LA-OpenShock](https://github.com/Cloud-121/ETS2LA-OpenShock) which is a plugin for [ETS2LA](https://github.com/ETS2LA/Euro-Truck-Simulator-2-Lane-Assist) that allows the connection of a shocker using the [Openshock API](https://github.com/OpenShock/API) to shock the wearer when they exit the lane.
+
+
 
 You can reach me through my email Cloud@gproconnect.com or my discord [@cloudfoxies](https://discordapp.com/users/714907687527252018).
 
