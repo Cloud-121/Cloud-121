@@ -9,7 +9,7 @@ You can reach me through my email contact@lenleyngo.com or my discord [@Scarlett
 
 <hr></hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cloud-121&theme=highcontrast&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cloud-121)](https://git.io/streak-stats)
 
 ![Clouds GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloud-121&show_icons=true&theme=github_dark)
 
