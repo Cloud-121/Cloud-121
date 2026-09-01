@@ -1,18 +1,45 @@
-# Hiya ^^
+# Hiya, I'm Scarlett <3
 
-Hello, my name is ScarlettOSA; I'm a student with a deep passion for open-source software and hardware. I enjoy learning and constantly pushing my boundaries in the fields I'm involved in.
+I'm a student, open-source advocate, and hands-on builder with a soft spot for resilient communications, useful tools, and hardware that people can understand and repair.
 
-I run the [Louisiana Mesh Community](https://louisianamesh.org/), a growing group of individuals dedicated to interconnecting Louisiana's cities with a decentralized, open-source messaging system. Providing a resilient communication channel that helps families stay together and communicate with others even when infrastructure is damaged from natural disasters. Working with companies such as [Heltec Automation](https://heltec.org/) to open unique opportunities to the community that wouldn't be available without their partnership.
+I believe technology should be something people can use on their own terms. That belief is what keeps me exploring open-source software, open hardware, mesh radio, automation, and the odd rabbit hole that starts with “I wonder if this is possible.”
 
+## What I'm working on
 
-You can reach me through my email contact@lenleyngo.com or my discord [@ScarlettOSA](https://discordapp.com/users/714907687527252018).
+I founded and lead [Gulf Coast Mesh](https://gulfcoastmesh.org/), a volunteer-built communications network rooted in Louisiana and growing across the Gulf Coast. We use MeshCore and other mesh-radio technologies to help communities build decentralized, off-grid communication infrastructure that can keep working when conventional networks do not.
 
-<hr></hr>
+Alongside an incredible group of volunteers and industry partners, I help grow the network, maintain its infrastructure, and make mesh communication more approachable for the people who need it.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cloud-121)](https://git.io/streak-stats)
+## Featured projects
 
-![Clouds GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloud-121&show_icons=true&theme=github_dark)
+| Project | What it is |
+| --- | --- |
+| [Gulf Coast Mesh](https://gulfcoastmesh.org/) | A community-run, volunteer-built mesh communications network for Louisiana and the wider Gulf Coast. |
+| [The Grumpy Board](https://grumpymesh.com/board.html) | A MeshCore radio designed with GrumpyMesh; the first run sold out in under six hours. |
+| Gulf Coast Mesh Analyzer | Network monitoring and logging infrastructure for owned repeaters, helping us spot outages and maintain a strong mesh. |
+| Gulf Coast Mesh App | A free companion app for MeshCore LoRa radios, supporting encrypted off-grid communication without cell service, Wi-Fi, or internet. 
 
+## Things I enjoy building with
 
+- **Languages:** Python, JavaScript, TypeScript, C++, Rust, Bash, and PowerShell
+- **Infrastructure:** Linux, Docker, Kubernetes, Git, GitHub, MQTT, and containers
+- **Hardware:** PCB design, 3D modeling, reverse engineering, LoRa, and mesh radio
+- **The fun stuff:** Automation, plugins, community tools, modular systems, and learning in public
 
+## Let's connect
 
+I'm always happy to meet people interested in open source, community infrastructure, mesh networking, or making useful things.
+
+- Email: [contact@lenleyngo.com](mailto:contact@lenleyngo.com)
+- Discord: [@ScarlettOSA](https://discordapp.com/users/714907687527252018)
+- Website: [lenleyngo.com](https://lenleyngo.com)
+
+<hr>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Cloud-121&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cloud-121&show_icons=true&theme=github_dark&hide_border=true" alt="Cloud-121's GitHub stats" />
+</p>
